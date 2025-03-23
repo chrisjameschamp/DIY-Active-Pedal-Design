@@ -1,20 +1,28 @@
 <h2 align="center">DIY Active Pedal Design</h2>
-<p align="center">The basic design files for my work-in-progress DIY Active Pedal.  The majority of these parts are designed to be 3D printed. This project is intended to compliment the much larger scale project of [ChrGri](https://github.com/ChrGri)'s [DIY-Sim-Racing-FFB-Pedal](https://github.com/ChrGri/DIY-Sim-Racing-FFB-Pedal)</p>
+
+<p align="center">
+  The basic design files for my work-in-progress DIY Active Pedal.
+  The majority of these parts are designed to be 3D printed.
+  This project is intended to complement the much larger scale project of
+  <a href="https://github.com/ChrGri" target="_blank">ChrGri</a>'s
+  <a href="https://github.com/ChrGri/DIY-Sim-Racing-FFB-Pedal" target="_blank">
+    DIY-Sim-Racing-FFB-Pedal
+  </a>.
+</p>
 <div align="center">
   
   ![GitHub documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg?style=flat-square)
-  ![Print Type: FDM](https://img.shields.io/badge/Print_Type-FDM_Printable-blue)
-  ![Designed in Fusion 360](https://img.shields.io/badge/CAD-Fusion_360-orange)
-  ![Includes STL, STEP, F3Z](https://img.shields.io/badge/Files-STL%2C_STEP%2C_F3Z-brightgreen)
+  ![Print Type: FDM](https://img.shields.io/badge/Print_Type-FDM_Printable-blue?style=flat-square)
+  ![Designed in Fusion 360](https://img.shields.io/badge/CAD-Fusion_360-orange?style=flat-square)
+  ![Includes STL, STEP, F3Z](https://img.shields.io/badge/Files-STL%2C_STEP%2C_F3Z-brightgreen?style=flat-square)
   ![GitHub repo size](https://img.shields.io/github/repo-size/chrisjameschamp/DIY-Active-Pedal-Design?style=flat-square)
-  [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-yellow.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+  [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-yellow.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/?style=flat-square)
   ![GitHub last commit](https://img.shields.io/github/last-commit/chrisjameschamp/TwitchTube?style=flat-square)
-  ![GitHub downloads](https://img.shields.io/github/downloads/chrisjameschamp/DIY-Active-Pedal-Design/total?style=flat-square)
 
 
 </div>
 <div align="center">
-  <img width="800" alt="Header" src="">
+  <img width="800" alt="Header" src="https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/blob/main/Images/Champ_PedalSet_1_V1.png">
 </div>
 
 ## License
