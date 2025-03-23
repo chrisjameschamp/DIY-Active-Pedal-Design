@@ -1,6 +1,6 @@
 <h2 align="center">DIY Active Pedal Design - Pedal Arm</h2>
 <div align="center">
-  <img width="800" alt="Header" src="https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/blob/main/Images/Champ_PedalSet_1_V1.png">
+  <img width="800" alt="Header" src="https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/blob/main/Design%20Files/Pedal%20Arm/Images/Champ_PedalArm_V2.png">
 </div>
 
 ## Index
@@ -10,6 +10,7 @@
    - [Material Options](#material-options)
    - [Print Settings](#print-settings)
 - [Hardware](#hardware)
+   - [Hardware List](#hardware-list)
 - [Assembly](#assembly)
 - [License](#license)
 
@@ -52,20 +53,31 @@ Due to the high wall/infill density, use a brim (10mm recommended) and possibly 
 
 ## Hardware
 
-The hardware I used can almost all be sourced from [McMaster-Carr](https://www.mcmaster.com/), which I know can be a little pricey at times, so if you are swapping out individual hardware from your local hardware store, or Amazon, etc.  Double check dimensions as they are critical for the overall assembly, fitment, and strength of the part.
+The hardware I used can mostly be sourced from [McMaster-Carr](https://www.mcmaster.com/).  
+If you're substituting parts from your local hardware store or Amazon, be sure to double-check dimensions — they're critical for fit and function.
 
-| **Item**                  | **Part Number** | **Quantity** | **Description**           | **Link**                            | **Notes**                                                                                                                                                                 |
-|---------------------------|-----------------|--------------|---------------------------|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| M8x1.25 25mm              | 92855A722       | 2            | Low-Proflie Socket Head   | https://www.mcmaster.com/92855A722/ | I did not actually use this exact bolt, I designed for it, but it ended up being quite costly, so I substituted it for a Pan Head bolt of the same specs.                 |
-| M8 Nylon Locking Nut      | 93625A300       | 2            |                           | https://www.mcmaster.com/93625A300/ |                                                                                                                                                                           |
-| M5x0.8mm Heat Set Insert  | 94180A363       | 2            |                           | https://www.mcmaster.com/94180A363/ |                                                                                                                                                                           |
-| M5x0.8 16mm               | 92125A212       | 2            | Hex Drive Flat Head Screw | https://www.mcmaster.com/92125A212/ |                                                                                                                                                                           |
-| M5 Steel Finish Washer    |  98472A300      | 2            |                           | https://www.mcmaster.com/98472A300/ |                                                                                                                                                                           |
-| M5x0.8 12mm               | 92125A210       | 2            | Hex Drive Flat Head Screw | https://www.mcmaster.com/92125A210/ |                                                                                                                                                                           |
-| 8mm OD 4.2mm ID 30mm Long | 92871A212       | 1            | Unthreaded Spacer         | https://www.mcmaster.com/92871A212/ | This will need to be tapped each side for M5x0.8 threads                                                                                                                   |
-| M5x0.8 16mm               |                 | 4            | Binding Post Screws       | https://a.co/d/4SsfVXW              |                                                                                                                                                                           |
-| M6 Flat Washer            | 93475A250       | 4            |                           | https://www.mcmaster.com/93475A250/ |                                                                                                                                                                           |
-| M5x0.8 25mm               | 93805A293       | 2            | Threaded Rod              | https://www.mcmaster.com/93805A293/ | Depending on the Binding Post screw thread depth, you may need to get a shorter variant, however these worked successfully for me with the Bind Post screws listed above. |
+### Hardware List
+
+| **Item**                        | **Part Number** | **Qty** | **Link** |
+|---------------------------------|-----------------|---------|----------|
+| M8x1.25 25mm Socket Head Bolt   | 92855A722       | 2       | [Link](https://www.mcmaster.com/92855A722/) |
+| M8 Nylon Locking Nut            | 93625A300       | 2       | [Link](https://www.mcmaster.com/93625A300/) |
+| M5x0.8mm Heat Set Insert        | 94180A363       | 2       | [Link](https://www.mcmaster.com/94180A363/) |
+| M5x0.8 16mm Flat Head Screw     | 92125A212       | 2       | [Link](https://www.mcmaster.com/92125A212/) |
+| M5 Steel Finish Washer          | 98472A300       | 2       | [Link](https://www.mcmaster.com/98472A300/) |
+| M5x0.8 12mm Flat Head Screw     | 92125A210       | 2       | [Link](https://www.mcmaster.com/92125A210/) |
+| 8mm OD, 4.2mm ID, 30mm Spacer   | 92871A212       | 1       | [Link](https://www.mcmaster.com/92871A212/) |
+| M5x0.8 16mm Binding Post Screw  | N/A             | 4       | [Amazon](https://a.co/d/4SsfVXW) |
+| M6 Flat Washer                  | 93475A250       | 4       | [Link](https://www.mcmaster.com/93475A250/) |
+| M5x0.8 25mm Threaded Rod        | 93805A293       | 2       | [Link](https://www.mcmaster.com/93805A293/) |
+
+### Notes
+
+1. **M8 Socket Head Bolts** – I originally designed for low-profile socket heads, but ended up using **pan head bolts** with the same dimensions due to cost.
+2. **8mm OD Spacer** – This needs to be **tapped on both sides** for M5x0.8 threads.
+3. **M5x0.8 25mm Threaded Rod** – Depending on the depth of your binding post screws, you may want a **shorter version**. These worked well with the ones linked above.
+4. **Binding Post Screws** – These were sourced from Amazon; they do not have a McMaster part number.
+
 
 ## Assembly
 
