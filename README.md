@@ -17,7 +17,7 @@
   ![Includes STL, STEP, F3Z](https://img.shields.io/badge/Files-STL%2C_STEP%2C_F3Z-brightgreen?style=flat-square)
   ![GitHub repo size](https://img.shields.io/github/repo-size/chrisjameschamp/DIY-Active-Pedal-Design?style=flat-square)
   [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/chrisjameschamp/TwitchTube?style=flat-square)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/chrisjameschamp/DIY-Active-Pedal-Design?style=flat-square)
 
 
 </div>
