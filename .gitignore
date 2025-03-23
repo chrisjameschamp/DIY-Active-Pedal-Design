@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Fusion 360 temp/backup files
+*.f3d.autosave
+*.f3d~
+*.bak
+
+# CAD Software (e.g., SolidWorks, Inventor, etc.)
+*.swp
+*.sldasm.*
+*.sldprt.*
+*.ipt.*
+*.iam.*
+
+# 3D Printing Slicer Temp/Preview files
+*.gcode-preview.png
+*.ufp
+*.3mf.autosave
+*.lock
+
+# Backup files
+*.bak
+*.tmp
+*.old
+*.orig
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs (e.g. PyCharm, WebStorm)
+.idea/
+
+# Logs
+*.log
