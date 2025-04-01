@@ -25,6 +25,20 @@
   <img width="800" alt="Header" src="https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/blob/main/Images/Champ_PedalSet_1_V1.png">
 </div>
 
+## Disclaimer
+
+⚠️ **Use at Your Own Risk**
+
+These design files and instructions are provided for educational and personal-use purposes only.  
+By choosing to build or modify this DIY active pedal system, you acknowledge that:
+
+- These pedals are powered by **motorized servos**, capable of applying significant mechanical force.
+- Improper assembly, use, or configuration may result in **injury**, **equipment damage**, or **malfunction**.
+- You are solely responsible for ensuring **safe construction**, **appropriate materials**, and **secure electronics**.
+- I (ChrisJamesChamp) accept **no liability** for any injury, loss, or damage arising from use of these files or any derivatives thereof.
+
+**Please take all appropriate safety precautions** when working with powered mechanical systems.
+
 ## License
 
 These 3D design files are licensed under a [Creative Commons BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
