@@ -1,7 +1,7 @@
 <h2 align="center">DIY Active Pedal Design - 600w Power Supply</h2>
 
 <div align="center">
-  <img width="800" alt="Header" src="https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/blob/main/Design%20Files/Power%20Supply/Images/Champ_PowerSupply_V1.png">
+  <img width="800" alt="Header" src="https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/blob/main/Design%20Files/600w%20Power%20Supply/Images/Champ_600w_PowerSupply_V1.png">
 </div>
 
 ## Index
@@ -21,7 +21,7 @@ This power supply enclosure is completely optional to build, but it adds a few n
 
 The enclosure is built around the [MEANWELL LRS-600-36](https://www.omc-stepperonline.com/lrs-600-36-mean-well-597-6w-36vdc-16-6a-115-230vac-enclosed-switching-power-supply-lrs-600-36). Other power supplies may work, but dimensions and specs may vary — proceed at your own risk if substituting.
 
-This particular power supply can be used with up to three pedals.  However the 600w PSU might be a bit overkill for one or two pedals; consider using the [350w Power Suppy](https://github.com) instead.
+This particular power supply can be used with up to three pedals.  However the 600w PSU might be a bit overkill for one or two pedals; consider using the [350w Power Suppy](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/tree/main/Design%20Files/350w%20Power%20Supply) instead.
 
 ## 3D Printing
 
