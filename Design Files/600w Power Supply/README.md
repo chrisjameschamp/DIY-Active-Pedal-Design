@@ -23,16 +23,6 @@ The enclosure is built around the [MEANWELL LRS-600-36](https://www.omc-steppero
 
 This particular power supply can be used with up to three pedals.  However the 600w PSU might be a bit overkill for one or two pedals; consider using the [350w Power Suppy](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/tree/main/Design%20Files/350w%20Power%20Supply) instead.
 
-## 3D Printing
-
-The enclosure is designed to be 3D printed. While it could be CNC machined, that approach would likely be more expensive and complex. If you do machine it, you could simplify the design in several areas (e.g., using drill taps instead of hardware).
-
-### Material Options
-
-I’ve only tested this part using eSun’s [ePA-CF](https://a.co/d/0XDH10W), an 80/20 nylon-carbon fiber composite. It offers great strength, layer adhesion, and added rigidity from the carbon. It also has relatively high tensile strength.
-
-That said, strength isn’t as critical for this part compared to others in the pedal system. More affordable options like PETG+CF or ABS+CF may actually be preferable here — they’re easier to print and still provide sufficient durability.
-
 ### Print Settings
 
 This enclosure was printed on a Creality K2 Plus, but your settings will vary depending on the printer and material used. Make sure your filament is well-tuned before printing — the enclosure is large and takes time to complete.
@@ -76,7 +66,7 @@ If you're substituting parts from your local hardware store or Amazon, be sure t
 
 ## Assembly
 
-Coming soon — I’ll be adding step-by-step instructions and photos here once testing is complete.
+A complete walkthrough of the assembly process can be found on the Wiki
 
 ## License
 
@@ -91,9 +81,3 @@ You may NOT:
 - Re-license modified versions under more restrictive or proprietary terms.
 
 Please credit **@ChrisJamesChamp** and link back to this repository if you use, remix, or share these designs.
-
-##
-
-<div align="center">
-  <a href="https://paypal.me/Champeau?country.x=US&locale.x=en_US"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
-</div>
