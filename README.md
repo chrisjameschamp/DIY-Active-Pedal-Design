@@ -25,8 +25,6 @@
   <img width="800" alt="Header" src="https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/blob/main/Images/Champ_PedalSet_1_V1.png">
 </div>
 
-## Disclaimer
-
 > ⚠️ **Use at Your Own Risk**
 > These design files and instructions are provided for educational and personal-use purposes only.  
 > By choosing to build or modify this DIY active pedal system, you acknowledge that:
