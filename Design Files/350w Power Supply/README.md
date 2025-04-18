@@ -7,9 +7,7 @@
 ## Index
 
 - [Design](#design)
-- [3D Printing](#3d-printing)
-  - [Material Options](#material-options)
-  - [Print Settings](#print-settings)
+- [Print Settings](#print-settings)
 - [Hardware](#hardware)
   - [Hardware List](#hardware-list)
 - [Assembly](#assembly)
@@ -44,7 +42,7 @@ For bed adhesion, use a 10mm brim and optionally apply glue stick or another adh
 
 ## Hardware
 
-The hardware I used can mostly be sourced from [McMaster-Carr](https://www.mcmaster.com/).  
+The hardware used can mostly be sourced from [McMaster-Carr](https://www.mcmaster.com/).  
 If you're substituting parts from your local hardware store or Amazon, be sure to double-check dimensions — they’re critical for proper fit and function.
 
 ### Hardware List
