@@ -84,7 +84,7 @@ If you're substituting parts from your local hardware store or Amazon, be sure t
 | M4x0.7 16mm Flat Head Screw   | 92125A196       | 12      | [Link](https://www.mcmaster.com/92125A196/) |
 | M4x0.7 18mm Flat Head Screw   | 91292A043       | 4       | [Link](https://www.mcmaster.com/91292A043/) |
 | M5x0.8mm Nut                    | 91828A241       | 6       | [Link](https://www.mcmaster.com/91828A241/) |
-| M5x0.8mm Heat Set Insert        | 94180A363       | 4       | [Link](https://www.mcmaster.com/94180A363/) |
+| M5x0.8mm Heat Set Insert        | 94180A363       | 5       | [Link](https://www.mcmaster.com/94180A363/) |
 | M5x0.8 18mm Socket Head Screw   | 91292A127       | 2       | [Link](https://www.mcmaster.com/91292A127/) |
 | M5x0.8 35mm Socket Head Screw   | 91292A193       | 4       | [Link](https://www.mcmaster.com/91292A193/) |
 | M5x0.8 30mm Socket Head Screw   | 91292A192       | 4       | [Link](https://www.mcmaster.com/91292A192/) |
