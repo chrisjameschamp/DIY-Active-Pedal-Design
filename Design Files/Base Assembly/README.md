@@ -75,13 +75,13 @@ If you're substituting parts from your local hardware store or Amazon, be sure t
 | JST-XH Pin Header Connectors    | N/A             |         | [Link](https://a.co/d/96Qgd40) |
 | RG178 U.FL MHF1 to SMA Coax Cable | N/A           | 1       | [Link](https://a.co/d/cNCmAZx) |
 | 2.54mm 0.1" Pitch PCB Mount Screw Terminal Block | N/A | 1  | [Link](https://a.co/d/gwZj4TC) |
-| M3x0.5mm Heat Set Insert        | 94180A333       | 7       | [Link](https://www.mcmaster.com/94180A333/) |
+| M3x0.5mm Heat Set Insert        | 94180A333       | 9       | [Link](https://www.mcmaster.com/94180A333/) |
 | M3x0.5 6mm Socket Head Screw    | 91292A111       | 8       | [Link](https://www.mcmaster.com/91292A111/) |
 | M3x0.5 8mm Socket Head Screw    | 91292A112       | 2       | [Link](https://www.mcmaster.com/91292A112/) |
 | M3x0.5 16mm Socket Head Screw   | 91292A115       | 4       | [Link](https://www.mcmaster.com/91292A115/) |
 | M3x0.5 20mm Socket Head Screw   | 91292A123       | 2       | [Link](https://www.mcmaster.com/91292A123/) |
 | M3x0.5 30mm Socket Head Screw   | 91292A022       | 1       | [Link](https://www.mcmaster.com/91292A022/) |
-| M4x0.7mm Heat Set Insert        | 94180A353       | 12      | [Link](https://www.mcmaster.com/94180A353/) |
+| M4x0.7mm Heat Set Insert        | 94180A353       | 14      | [Link](https://www.mcmaster.com/94180A353/) |
 | M4x0.7 10mm Flat Head Screw   | 92125A190        | 12      | [Link](https://www.mcmaster.com/92125A190/) |
 | M4x0.7 16mm Flat Head Screw   | 92125A196       | 12      | [Link](https://www.mcmaster.com/92125A196/) |
 | M4x0.7 18mm Flat Head Screw   | 91292A043       | 4       | [Link](https://www.mcmaster.com/91292A043/) |
