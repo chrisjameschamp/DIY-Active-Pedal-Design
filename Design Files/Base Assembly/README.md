@@ -19,7 +19,7 @@ The base assembly is the most critical component of the pedal system and houses 
 
 It’s built around the [JLCPCB Linear Actuator (JKK60-5-P-150-A1-F4-M)](https://jlcmc.com/product/s/B16/BQD-JKK60/FA-%E7%9B%B4%E7%BA%BF%E8%BF%90%E5%8A%A8%E9%9B%B6%E4%BB%B6-%E9%92%A2%E5%88%B6%E7%9B%B4%E7%BA%BF%E6%A8%A1%E7%BB%84?productModelNumber=JKK60-5-P-150-A1-F4-M) and the [iSV57T-130S 130W NEMA 23 Servo Motor](https://www.omc-stepperonline.com/nema-23-integrated-easy-servo-motor-130w-3000rpm-0-45nm-63-73oz-in-20-50vdc-servo-motor-short-shaft-isv57t-130s). These work together to provide responsive, high-force motion to the pedal arm.
 
-The base also provides space to mount electronics, including the control and power boards. This build uses the excellent designs by [gilphilbert](https://github.com/gilphilbert) — specifically the V1.1 Power Board and V1.2 Control Board, found here: [DIY-Sim-Racing-FFB-Pedal-PCBs](https://github.com/gilphilbert/DIY-Sim-Racing-FFB-Pedal-PCBs). These boards can be ordered mostly pre-assembled through [JLCPCB](https://jlcpcb.com); see Gil’s GitHub repo for full ordering instructions.
+The base also provides space to mount electronics, including the control and power boards. This build uses the excellent designs by [gilphilbert](https://github.com/gilphilbert) — specifically the V1.1 Power Board and V1.2 Control Board, found here: [DIY-Sim-Racing-FFB-Pedal-PCBs](https://github.com/gilphilbert/DIY-Sim-Racing-FFB-Pedal-PCBs). These boards can be ordered mostly pre-assembled through [JLCPCB](https://jlcpcb.com); see the GitHub repo for full ordering instructions.
 
 ### Print Settings
 
