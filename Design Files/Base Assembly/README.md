@@ -91,6 +91,7 @@ If you're substituting parts from your local hardware store or Amazon, be sure t
 | M5x0.8 18mm Socket Head Screw   | 91292A127       | 2       | [Link](https://www.mcmaster.com/91292A127/) |
 | M5x0.8 35mm Socket Head Screw   | 91292A193       | 4       | [Link](https://www.mcmaster.com/91292A193/) |
 | M5x0.8 30mm Socket Head Screw   | 91292A192       | 4       | [Link](https://www.mcmaster.com/91292A192/) |
+| Adhesive Silicon Roll           | N/A             | 1      | [Link](https://a.co/d/0RqzMVF) |
 
 ### Notes
 
