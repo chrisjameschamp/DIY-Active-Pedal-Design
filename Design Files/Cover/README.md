@@ -32,7 +32,7 @@ The **Cover** is not structural and does not need to be printed in nylon.
 
 The slider was printed on a Creality K2 Plus, but print settings will vary depending on your printer and material.
 
-**⚠️ Note:** The main body of the enclosure is just over **280mm wide** and may not fit on most printers. I’ve included a split version that should work on smaller beds. I haven’t tested it personally, but it should print the same.
+**⚠️ Note:** The cover is just over **280mm wide** and may not fit on most printers. I’ve included a split version that should work on smaller beds. I haven’t tested it personally, but it should print the same.
 
 #### Recommended Print Settings
 
