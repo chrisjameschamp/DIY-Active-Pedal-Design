@@ -1,6 +1,6 @@
-<h2 align="center">DIY Active Pedal Design - Pedal Arm</h2>
+<h2 align="center">DIY Active Pedal Design - Slider</h2>
 <div align="center">
-  <img width="800" alt="Header" src="https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/blob/main/Design%20Files/Pedal%20Arm/Images/Champ_PedalArm_V2.png">
+  <img width="800" alt="Header" src="https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/blob/main/Design%20Files/Slider/Images/Champ_Slider_V1.png">
 </div>
 
 ## Index
@@ -16,11 +16,11 @@
 
 ## Design
 
-This is the second design iteration of the Pedal Arm. The first version had mounting brackets approximately 25mm lower, which increased travel but reduced usable servo force. Since that much travel isn’t necessary, I moved the brackets upward — nearly doubling the effective braking force the servos can handle.
+The slider is designed to be simple, functional, and easy to assemble.
 
 ## 3D Printing
 
-The arm is designed to be 3d printed, it could be CNC machined as well, although it would probably not be super easy and/or cheap.  If it were to be CNC machined however, there are a lot of areas that could be simplified or adjusted with drill taps to eliminate the use of some hardware.
+The slider is designed to be 3d printed, it could be CNC machined as well, although it would probably not be super easy and/or cheap.  If it were to be CNC machined however, there are a lot of areas that could be simplified or adjusted with drill taps to eliminate the use of some hardware.
 
 ### Material Options
 
@@ -32,11 +32,11 @@ More affordable options like PETG+CF or ABS+CF composites may work as well. Whil
 
 Some users in the DIY FFB Pedal Discord have reported success with PLA+ or regular PETG. I haven’t tested these myself, and I’d be cautious about PLA+’s long-term durability.
 
+The **Slider_Shield** is not structural and does not need to be printed in nylon.  I personally printed and tested it with Fiberon's PETG-CF.
+
 ### Print Settings
 
-The pedal arm was printed on a Creality K2 Plus, but print settings will vary depending on your printer and material. Make sure your filament and printer are well-tuned before attempting a full print — it’s a large part and can take quite a while.
-
-Don’t do what I did and print seven of them while dialing in settings 😅
+The slider was printed on a Creality K2 Plus, but print settings will vary depending on your printer and material.
 
 #### Recommended Print Settings
 
@@ -49,8 +49,6 @@ Don’t do what I did and print seven of them while dialing in settings 😅
 ⚠️ For nylon:
 Thoroughly dry your filament before printing. Even slightly damp nylon will print poorly, resulting in weak layer adhesion and rough surface quality.
 
-Due to the high wall/infill density, use a brim (10mm recommended) and possibly glue stick or other adhesion aid. I used both, and they were necessary to prevent warping.
-
 ## Hardware
 
 The hardware I used can mostly be sourced from [McMaster-Carr](https://www.mcmaster.com/).  
@@ -60,28 +58,22 @@ If you're substituting parts from your local hardware store or Amazon, be sure t
 
 | **Item**                        | **Part Number** | **Qty** | **Link** |
 |---------------------------------|-----------------|---------|----------|
-| M8x1.25 25mm Socket Head Bolt   | 92855A722       | 2       | [Link](https://www.mcmaster.com/92855A722/) |
-| M8 Nylon Locking Nut            | 93625A300       | 2       | [Link](https://www.mcmaster.com/93625A300/) |
-| M5x0.8mm Heat Set Insert        | 94180A363       | 2       | [Link](https://www.mcmaster.com/94180A363/) |
-| M5x0.8 16mm Flat Head Screw     | 92125A212       | 2       | [Link](https://www.mcmaster.com/92125A212/) |
-| M5 Steel Finish Washer          | 98472A300       | 2       | [Link](https://www.mcmaster.com/98472A300/) |
-| M5x0.8 12mm Flat Head Screw     | 92125A210       | 2       | [Link](https://www.mcmaster.com/92125A210/) |
-| 8mm OD, 4.2mm ID, 30mm Spacer   | 92871A212       | 1       | [Link](https://www.mcmaster.com/92871A212/) |
-| M5x0.8 16mm Binding Post Screw  | N/A             | 4       | [Amazon](https://a.co/d/4SsfVXW) |
-| M6 Flat Washer                  | 93475A250       | 4       | [Link](https://www.mcmaster.com/93475A250/) |
-| M5x0.8 25mm Threaded Rod        | 93805A293       | 2       | [Link](https://www.mcmaster.com/93805A293/) |
-
-### Notes
-
-1. **M8 Socket Head Bolts** – I originally designed for low-profile socket heads, but ended up using **pan head bolts** with the same dimensions due to cost.
-2. **8mm OD Spacer** – This needs to be **tapped on both sides** for M5x0.8 threads.
-3. **M5x0.8 25mm Threaded Rod** – Depending on the depth of your binding post screws, you may want a **shorter version**. These worked well with the ones linked above.
-4. **Binding Post Screws** – These were sourced from Amazon; they do not have a McMaster part number.
+| M3x0.5mm Heat Set Insert        | 94180A333       | 2       | [Link](https://www.mcmaster.com/94180A333/) |
+| M3x0.5 4mm Socket Head Screw    | 91292A109       | 2       | [Link](https://www.mcmaster.com/91292A109/) |
+| M3x0.5 6mm Flat Head Screw      | 92125A126       | 2       | [Link](https://www.mcmaster.com/92125A126/) |
+| M3x0.5 10mm Flat Head Screw     | 92125A130       | 2       | [Link](https://www.mcmaster.com/92125A130/) |
+| M4x0.7 Standard Nut             | 91828A241       | 4       | [Link](https://www.mcmaster.com/91828A241/) |
+| M4x0.7 14mm Socket Head Screw   | 91292A038       | 2       | [Link](https://www.mcmaster.com/91292A038/) |
+| M4x0.7 30mm Socket Head Screw   | 91292A130       | 2       | [Link](https://www.mcmaster.com/91292A130/) |
+| M5x0.8 16mm Socket Head Screw   | 91292A126       | 2       | [Link](https://www.mcmaster.com/91292A126/) |
+| M5x0.8 45mm Socket Head Screw   | 91292A195       | 2       | [Link](https://www.mcmaster.com/91292A195/) |
+| 8mm x 40mm Dowel Pin            | 91585A829       | 1       | [Link](https://www.mcmaster.com/91585A829/) |
+| FPC FFC PCB Converter Board 6P  | N/A             | 1       | [Link](https://a.co/d/bPsciNe) |
 
 
 ## Assembly
 
-Coming soon — I’ll be adding step-by-step instructions and photos here once testing is complete.
+A complete walkthrough of the assembly process can be found on the [Wiki](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/)
 
 ## License
 
