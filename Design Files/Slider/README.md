@@ -32,7 +32,7 @@ More affordable options like PETG+CF or ABS+CF composites may work as well. Whil
 
 Some users in the DIY FFB Pedal Discord have reported success with PLA+ or regular PETG. I haven’t tested these myself, and I’d be cautious about PLA+’s long-term durability.
 
-The **Slider_Shield** is not structural and does not need to be printed in nylon.  I personally printed and tested it with Fiberon's PETG-CF.
+The **Slider_Shield** is not structural and does not need to be printed in nylon.  I personally printed and tested it with [Fiberon's PETG-CF](https://a.co/d/dX2OyLc).
 
 ### Print Settings
 
