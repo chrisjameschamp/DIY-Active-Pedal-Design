@@ -101,7 +101,7 @@ If you're substituting parts from your local hardware store or Amazon, be sure t
 
 ## Assembly
 
-A complete walkthrough of the assembly process can be found on the [Wiki](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/)
+A complete walkthrough of the assembly process can be found on the [Wiki](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/5-%E2%80%90-Base-Assembly)
 
 ## License
 

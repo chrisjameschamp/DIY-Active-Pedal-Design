@@ -81,7 +81,7 @@ If you're substituting parts from your local hardware store or Amazon, be sure t
 
 ## Assembly
 
-Coming soon — I’ll be adding step-by-step instructions and photos here once testing is complete.
+A complete walkthrough of the assembly process can be found on the [Wiki](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/)
 
 ## License
 
