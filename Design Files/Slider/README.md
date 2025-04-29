@@ -24,7 +24,7 @@ The slider is designed to be 3d printed, it could be CNC machined as well, altho
 
 ### Material Options
 
-I’ve only tested this part printed in eSun’s [ePA-CF](https://a.co/d/0XDH10W), an 80/20 nylon-carbon fiber composite with excellent strength, layer adhesion, and added rigidity from the carbon fiber. It also has relatively high tensile strength.
+I’ve only tested these parts printed in eSun’s [ePA-CF](https://a.co/d/0XDH10W), an 80/20 nylon-carbon fiber composite with excellent strength, layer adhesion, and added rigidity from the carbon fiber. It also has relatively high tensile strength.
 
 You could try pure nylon, although it might be too flexible.
 
