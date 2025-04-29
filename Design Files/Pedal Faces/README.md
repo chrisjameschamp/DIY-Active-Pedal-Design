@@ -1,6 +1,6 @@
 <h2 align="center">DIY Active Pedal Design - Pedal Faces</h2>
 <div align="center">
-  <img width="800" alt="Header" src="https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/blob/main/Design%20Files/Load%20Cell%20Arm/Images/Champ_Pedal_Faces_V1.png">
+  <img width="800" alt="Header" src="https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/blob/main/Design%20Files/Pedal%20Faces/Images/Champ_Pedal_Faces_V1.png">
 </div>
 
 ## Index
