@@ -67,9 +67,10 @@ If you're substituting parts from your local hardware store or Amazon, be sure t
 | M5 Steel Finish Washer          | 98472A300       | 2       | [Link](https://www.mcmaster.com/98472A300/) |
 | M5x0.8 12mm Flat Head Screw     | 92125A210       | 2       | [Link](https://www.mcmaster.com/92125A210/) |
 | 8mm OD, 4.2mm ID, 30mm Spacer   | 92871A212       | 1       | [Link](https://www.mcmaster.com/92871A212/) |
-| M5x0.8 16mm Binding Post Screw  | N/A             | 4       | [Amazon](https://a.co/d/4SsfVXW) |
+| M5x0.8 16mm Binding Post Screw  | N/A             | 4       | [Link](https://a.co/d/4SsfVXW) |
 | M6 Flat Washer                  | 93475A250       | 4       | [Link](https://www.mcmaster.com/93475A250/) |
 | M5x0.8 25mm Threaded Rod        | 93805A293       | 2       | [Link](https://www.mcmaster.com/93805A293/) |
+| 608ZZ Bearing                   | 608ZZ           | 2       | [Link](https://a.co/d/8xCCTFy) |
 
 ### Notes
 
