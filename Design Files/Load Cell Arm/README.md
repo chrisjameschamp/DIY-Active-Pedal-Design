@@ -1,6 +1,6 @@
 <h2 align="center">DIY Active Pedal Design - Load Cell Arm</h2>
 <div align="center">
-  <img width="800" alt="Header" src="https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/blob/main/Design%20Files/Load%20Cell%20Arm/Images/Load_Cell_Arm_V1.png">
+  <img width="800" alt="Header" src="https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/blob/main/Design%20Files/Load%20Cell%20Arm/Images/Champ_Load_Cell_Arm_V1.png">
 </div>
 
 ## Index
