@@ -24,7 +24,7 @@
 
 </div>
 <div align="center">
-  <img width="800" alt="Header" src="https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/blob/main/Images/Champ_PedalSet_1_V1.png">
+  <img width="800" alt="Header" src="https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/blob/main/Images/Champ_PedalSet_1_V2.png">
 </div>
 
 ## What Makes These Pedals Different?
