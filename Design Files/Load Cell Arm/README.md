@@ -53,7 +53,7 @@ If you're substituting parts from your local hardware store or Amazon, be sure t
 | **Item**                        | **Part Number** | **Qty** | **Link** |
 |---------------------------------|-----------------|---------|----------|
 | Pressure Sensor S Load Cell Weight Sensor(200KG) | DYLY-107 | 1 | [Link](https://a.co/d/eEIK39s) |
-| M8.5x1.25 18mm Cap Head Screw   | 91292A080       | 2       | [Link](https://www.mcmaster.com/91292A080/) |
+| M8x1.25 18mm Cap Head Screw   | 91292A080       | 2       | [Link](https://www.mcmaster.com/91292A080/) |
 | 608ZZ Bearing                   | 608ZZ           | 4       | [Link](https://a.co/d/8xCCTFy) |
 
 ### Notes
