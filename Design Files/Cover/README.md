@@ -51,7 +51,7 @@ If you're substituting parts from your local hardware store or Amazon, be sure t
 
 | **Item**                        | **Part Number** | **Qty** | **Link** |
 |---------------------------------|-----------------|---------|----------|
-| M2.5x0.4 6mm Flat Head Screw    | 91292A010       | 4       | [Link](https://www.mcmaster.com/91292A010/) |
+| M2.5x0.4 6mm Socket Head Screw  | 91292A010       | 4       | [Link](https://www.mcmaster.com/91292A010/) |
 | RP-SMA Male Antenna             | N/A             | 1       | [Link](https://a.co/d/crMru0R) |
 
 
