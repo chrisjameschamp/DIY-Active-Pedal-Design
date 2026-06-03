@@ -16,7 +16,7 @@
 
 ## Design
 
-This is the second design iteration of the Pedal Arm. The first version had mounting brackets approximately 25mm lower, which increased travel but reduced usable servo force. Since that much travel isn’t necessary, I moved the brackets upward — nearly doubling the effective braking force the servos can handle.
+This is the third design iteration of the Pedal Arm. The first version had mounting brackets approximately 25mm lower, which increased travel but reduced usable servo force. Since that much travel isn’t necessary, the brackets were moved upward in later revisions — nearly doubling the effective braking force the servos can handle. The current version also includes additional stiffness improvements over the earlier arms.
 
 ## 3D Printing
 
@@ -60,29 +60,27 @@ If you're substituting parts from your local hardware store or Amazon, be sure t
 
 | **Item**                        | **Part Number** | **Qty** | **Link** |
 |---------------------------------|-----------------|---------|----------|
-| M8x1.25 25mm Socket Head Bolt   | 92855A722       | 2       | [Link](https://www.mcmaster.com/92855A722/) |
+| M8x1.25 25mm Hex Cap Head Screw | 92095A286       | 2       | [Link](https://www.mcmaster.com/92095A286/) |
 | M8 Nylon Locking Nut            | 93625A300       | 2       | [Link](https://www.mcmaster.com/93625A300/) |
-| M5x0.8mm Heat Set Insert        | 94180A363       | 2       | [Link](https://www.mcmaster.com/94180A363/) |
+| M5x0.8mm Heat Set Insert        | 94180A363       | 6       | [Link](https://www.mcmaster.com/94180A363/) |
+| M3 Square Nut                   | 97258A101       | 2       | [Link](https://www.mcmaster.com/97258A101/) |
+| M5x0.8 14mm Socket Head Screw   | 91292A058       | 4       | [Link](https://www.mcmaster.com/91292A058/) |
+| M3x0.5 16mm Flat Head Screw     | 92125A134       | 2       | [Link](https://www.mcmaster.com/92125A134/) |
 | M5x0.8 16mm Flat Head Screw     | 92125A212       | 2       | [Link](https://www.mcmaster.com/92125A212/) |
 | M5 Steel Finish Washer          | 98472A300       | 2       | [Link](https://www.mcmaster.com/98472A300/) |
 | M5x0.8 12mm Flat Head Screw     | 92125A210       | 2       | [Link](https://www.mcmaster.com/92125A210/) |
 | 8mm OD, 4.2mm ID, 30mm Spacer   | 92871A212       | 1       | [Link](https://www.mcmaster.com/92871A212/) |
-| M5x0.8 16mm Binding Post Screw  | N/A             | 4       | [Link](https://a.co/d/4SsfVXW) |
-| M6 Flat Washer                  | 93475A250       | 4       | [Link](https://www.mcmaster.com/93475A250/) |
-| M5x0.8 25mm Threaded Rod        | 93805A293       | 2       | [Link](https://www.mcmaster.com/93805A293/) |
 | 608ZZ Bearing                   | 608ZZ           | 2       | [Link](https://a.co/d/8xCCTFy) |
 
 ### Notes
 
-1. **M8 Socket Head Bolts** – I originally designed for low-profile socket heads, but ended up using **pan head bolts** with the same dimensions due to cost.
+1. **M5x0.8mm Heat Set Insert** – The side mounts use 4 x M5x0.8mm Heat Set Insert. The front-facing holes of the pedal arm use 2 x M5x0.8mm Heat Set Insert.
 2. **8mm OD Spacer** – This needs to be **tapped on both sides** for M5x0.8 threads.
-3. **M5x0.8 25mm Threaded Rod** – Depending on the depth of your binding post screws, you may want a **shorter version**. These worked well with the ones linked above.
-4. **Binding Post Screws** – These were sourced from Amazon; they do not have a McMaster part number.
 
 
 ## Assembly
 
-A complete walkthrough of the assembly process can be found on the [Wiki](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/)
+Complete walkthroughs of the assembly process can be found on the [Pedal Arm wiki page](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/06-%E2%80%90-Pedal-Arm) and [Arm Connection wiki page](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/10-%E2%80%90-Arm-Connection).
 
 ## License
 

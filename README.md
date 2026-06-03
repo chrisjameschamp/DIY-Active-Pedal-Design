@@ -15,7 +15,7 @@
   ![Wiki](https://img.shields.io/badge/Wiki-Available-brightgreen?style=flat-square)
   ![Print Type: FDM](https://img.shields.io/badge/Print_Type-FDM_Printable-blue?style=flat-square)
   ![Designed in Fusion 360](https://img.shields.io/badge/CAD-Fusion_360-orange?style=flat-square)
-  ![Includes STL, STEP, F3Z](https://img.shields.io/badge/Files-STL%2C_STEP%2C_F3Z-brightgreen?style=flat-square)
+  ![Includes STL, STEP](https://img.shields.io/badge/Files-STL%2C_STEP-brightgreen?style=flat-square)
   ![GitHub repo size](https://img.shields.io/github/repo-size/chrisjameschamp/DIY-Active-Pedal-Design?style=flat-square)
   [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
   ![GitHub last commit](https://img.shields.io/github/last-commit/chrisjameschamp/DIY-Active-Pedal-Design?style=flat-square)
@@ -26,6 +26,16 @@
 <div align="center">
   <img width="800" alt="Header" src="https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/blob/main/Images/Champ_PedalSet_1_V2.png">
 </div>
+
+## What This Repo Includes
+
+This repository contains the mechanical design files and build documentation for the DIY Active Pedal hardware:
+
+- STL and STEP files for the printable and machinable pedal components
+- Wiki-based build instructions, hardware references, and print guidance
+- Design-file README pages for the major assemblies
+
+This project is designed to work with the broader [DIY-Sim-Racing-FFB-Pedal](https://github.com/ChrGri/DIY-Sim-Racing-FFB-Pedal) ecosystem and the [DIY-Sim-Racing-FFB-Pedal-PCBs](https://github.com/gilphilbert/DIY-Sim-Racing-FFB-Pedal-PCBs) by gilphilbert. You will still need the required electronics, firmware/software, power supply, servo motor, linear rail, load cell, wiring, hardware, and appropriate fabrication tools to complete a working pedal.
 
 ## What Makes These Pedals Different?
 
@@ -73,11 +83,12 @@ Please credit **@ChrisJamesChamp** and link back to this repository if you use, 
 > By choosing to build or modify this DIY active pedal system, you acknowledge that:
 > 
 > - These pedals are powered by **motorized servos**, capable of applying significant mechanical force.
+> - The power supply assembly involves **AC mains voltage**, which can cause electric shock, fire, equipment damage, or serious injury if wired incorrectly.
 > - Improper assembly, use, or configuration may result in **injury**, **equipment damage**, or **malfunction**.
 > - You are solely responsible for ensuring **safe construction**, **appropriate materials**, and **secure electronics**.
 > - I (ChrisJamesChamp) accept **no liability** for any injury, loss, or damage arising from use of these files or any derivatives thereof.
 >
-> **Please take all appropriate safety precautions** when working with powered mechanical systems.
+> **Please take all appropriate safety precautions** when working with powered mechanical and electrical systems.
 
 ##
 

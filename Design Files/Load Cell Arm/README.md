@@ -53,7 +53,7 @@ If you're substituting parts from your local hardware store or Amazon, be sure t
 | **Item**                        | **Part Number** | **Qty** | **Link** |
 |---------------------------------|-----------------|---------|----------|
 | Pressure Sensor S Load Cell Weight Sensor(200KG) | DYLY-107 | 1 | [Link](https://a.co/d/eEIK39s) |
-| M8x1.25 18mm Cap Head Screw   | 91292A080       | 2       | [Link](https://www.mcmaster.com/91292A080/) |
+| M8x1.25 18mm Socket Head Cap Screw | 91292A080  | 2       | [Link](https://www.mcmaster.com/91292A080/) |
 | 608ZZ Bearing                   | 608ZZ           | 4       | [Link](https://a.co/d/8xCCTFy) |
 
 ### Notes
@@ -62,7 +62,7 @@ If you're substituting parts from your local hardware store or Amazon, be sure t
 
 ## Assembly
 
-A complete walkthrough of the assembly process can be found on the [Wiki](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/)
+A complete walkthrough of the assembly process can be found on the [Load Cell Arm wiki page](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/07-%E2%80%90-Load-Cell-Arm).
 
 ## License
 

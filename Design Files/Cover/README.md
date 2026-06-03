@@ -30,7 +30,7 @@ The **Cover** is not structural and does not need to be printed in nylon.
 
 ### Print Settings
 
-The slider was printed on a Creality K2 Plus, but print settings will vary depending on your printer and material.
+The cover was printed on a Creality K2 Plus, but print settings will vary depending on your printer and material.
 
 **⚠️ Note:** The cover is just over **280mm wide** and may not fit on most printers. I’ve included a split version that should work on smaller beds. I haven’t tested it personally, but it should print the same.
 
@@ -52,12 +52,14 @@ If you're substituting parts from your local hardware store or Amazon, be sure t
 | **Item**                        | **Part Number** | **Qty** | **Link** |
 |---------------------------------|-----------------|---------|----------|
 | M2.5x0.4 6mm Socket Head Screw  | 91292A010       | 4       | [Link](https://www.mcmaster.com/91292A010/) |
-| RP-SMA Male Antenna             | N/A             | 1       | [Link](https://a.co/d/crMru0R) |
+| M3x0.5mm Heat Set Insert        | 94180A333       | 2       | [Link](https://www.mcmaster.com/94180A333/) |
+| M3x0.5 16mm Socket Head Screw   | 91292A115       | 2       | [Link](https://www.mcmaster.com/91292A115/) |
+| Coax Antenna Cable              | N/A             | 1       | [Link](https://a.co/d/crMru0R) |
 
 
 ## Assembly
 
-A complete walkthrough of the assembly process can be found on the [Wiki](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/)
+A complete walkthrough of the assembly process can be found on the [Slider Cover wiki page](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/09-%E2%80%90-Slider-Cover).
 
 ## License
 

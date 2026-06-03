@@ -19,7 +19,7 @@
 The pedal faces are designed to match my existing dead pedal and heel plate from [Pedal Haus](http://www.pedalhaus.com), which produces pedals and accessories for most BMW models.  
 Each pedal face consists of **three parts**: the faceplate, the mounting bracket, and a cosmetic beauty ring.
 
-There are three pedal faces in total: **throttle**, **brake**, and **clutch**. The faceplates for the throttle and brake are identical, but the **mounting brackets for the brake and clutch differ slightly**. This difference ensures that when all three pedal assemblies are mounted equidistant from one another, the spacing between pedals remains visually and functionally consistent.
+There are two distinct pedal face shapes and three mounting brackets. The **throttle pedal** is larger and uses its own mounting bracket. The **brake and clutch pedals** share the same face, but use different mounting brackets. This difference ensures that when all three pedal assemblies are mounted equidistant from one another, the spacing between pedals remains visually and functionally consistent.
 
 If you're building only a throttle and brake pedal setup, you can choose either the **brake** or **clutch** bracket for the brake pedal. The **clutch bracket** increases the spacing between the pedals, while the **brake bracket** decreases it.  
 Which one you use is entirely a matter of personal preference.
@@ -72,7 +72,7 @@ The required hardware is the same regardless of which pedal variation you're bui
 
 ## Assembly
 
-A complete walkthrough of the assembly process can be found on the [Wiki](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/)
+A complete walkthrough of the assembly process can be found on the [Pedal Faces wiki page](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/11-%E2%80%90-Pedal-Faces).
 
 ## License
 

@@ -19,7 +19,7 @@ This power supply enclosure is completely optional to build, but it adds a few n
 
 The enclosure is built around the [MEANWELL LRS-350-36](https://www.omc-stepperonline.com/lrs-350-36-mean-well-350w-36vdc-9-7a-115-230vac-enclosed-switching-power-supply-lrs-350-36). Other power supplies may work, but dimensions and specs may vary — proceed at your own risk if substituting.
 
-This particular power supply can be used with one or two pedals.  If you are using three pedals you should use the [600w Power Suppy](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/tree/main/Design%20Files/600w%20Power%20Supply) instead.
+This particular power supply can be used with one or two pedals.  If you are using three pedals you should use the [600w Power Supply](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/tree/main/Design%20Files/600w%20Power%20Supply) instead.
 
 ### Print Settings
 
@@ -49,8 +49,9 @@ If you're substituting parts from your local hardware store or Amazon, be sure t
 
 | **Item**                        | **Part Number** | **Qty** | **Link** |
 |---------------------------------|-----------------|---------|----------|
-| MEANWELL LRS-350-36             | N/A             | 1       | [Link](https://www.omc-stepperonline.com/lrs-350-36-mean-well-350w-36vdc-9-7a-115-230vac-enclosed-switching-power-supply-lrs-350-36) |
+| MEANWELL LRS-350-36             | LRS-350-36      | 1       | [Link](https://www.omc-stepperonline.com/lrs-350-36-mean-well-350w-36vdc-9-7a-115-230vac-enclosed-switching-power-supply-lrs-350-36) |
 | IEC Connector with Power Switch | 5428N118        | 1       | [Link](https://www.mcmaster.com/5428N118/) |
+| 16 Gauge Wire                   | N/A             | As needed | [Link](https://a.co/d/feJ6wWT) |
 | M3x0.5mm Heat Set Insert        | 94180A333       | 6       | [Link](https://www.mcmaster.com/94180a333/) |
 | M3x0.5 14mm Flat Head Screw     | 92125A133       | 4       | [Link](https://www.mcmaster.com/92125A133/) |
 | M3x0.5 18mm Flat Head Screw     | 92125A135       | 2       | [Link](https://www.mcmaster.com/92125A135/) |
@@ -59,12 +60,12 @@ If you're substituting parts from your local hardware store or Amazon, be sure t
 
 ### Notes
 
-1. **M4 Flat Head Screws** – These should not be longer than 10mm; anything longer could damage the unit.
-2. **PCIe Extension Cables** – The full pedal setup requires a total of **6** cables. You’ll need 3 for the PSU and 3 for the pedals, so plan your order accordingly.
+1. **M4x0.7 10mm Flat Head Screw** – These should not be longer than 10mm; anything longer could damage the unit.
+2. **PCIe Extension Cables** – The 350w PSU enclosure uses **2** PCIe extension cables. Additional pedal-side PCIe cables are counted separately.
 
 ## Assembly
 
-A complete walkthrough of the assembly process can be found on the [Wiki](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/3-%E2%80%90-PSU-Assembly)
+A complete walkthrough of the assembly process can be found on the [Wiki](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/03-%E2%80%90-Power-Supply-Unit)
 
 ## License
 

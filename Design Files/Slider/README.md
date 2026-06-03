@@ -60,20 +60,24 @@ If you're substituting parts from your local hardware store or Amazon, be sure t
 |---------------------------------|-----------------|---------|----------|
 | M3x0.5mm Heat Set Insert        | 94180A333       | 2       | [Link](https://www.mcmaster.com/94180A333/) |
 | M3x0.5 4mm Socket Head Screw    | 91292A109       | 2       | [Link](https://www.mcmaster.com/91292A109/) |
-| M3x0.5 6mm Flat Head Screw      | 92125A126       | 2       | [Link](https://www.mcmaster.com/92125A126/) |
+| M3x0.5 8mm Flat Head Screw      | 92125A128       | 2       | [Link](https://www.mcmaster.com/92125A128/) |
 | M3x0.5 10mm Flat Head Screw     | 92125A130       | 2       | [Link](https://www.mcmaster.com/92125A130/) |
-| M4x0.7 Standard Nut             | 91828A241       | 4       | [Link](https://www.mcmaster.com/91828A241/) |
+| M4x0.7 Standard Nut             | 91828A231       | 4       | [Link](https://www.mcmaster.com/91828A231/) |
 | M4x0.7 14mm Socket Head Screw   | 91292A038       | 2       | [Link](https://www.mcmaster.com/91292A038/) |
 | M4x0.7 30mm Socket Head Screw   | 91292A130       | 2       | [Link](https://www.mcmaster.com/91292A130/) |
 | M5x0.8 16mm Socket Head Screw   | 91292A126       | 2       | [Link](https://www.mcmaster.com/91292A126/) |
 | M5x0.8 45mm Socket Head Screw   | 91292A195       | 2       | [Link](https://www.mcmaster.com/91292A195/) |
 | 8mm x 40mm Dowel Pin            | 91585A829       | 1       | [Link](https://www.mcmaster.com/91585A829/) |
 | FPC FFC PCB Converter Board 6P  | N/A             | 1       | [Link](https://a.co/d/bPsciNe) |
+| 1/4" Silicone Tubing or PTFE Tubing | N/A         | As needed | [Link](https://a.co/d/5qUH8Bg) |
+| Heat Shrink Tube                | N/A             | As needed | N/A |
+| Kapton Tape                     | N/A             | As needed | [Link](https://a.co/d/9xGHyLZ) |
+| FFC Ribbon Flat Flexible Cable, 6 Pin | N/A       | 1       | N/A |
 
 
 ## Assembly
 
-A complete walkthrough of the assembly process can be found on the [Wiki](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/)
+A complete walkthrough of the assembly process can be found on the [Slider wiki page](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/08-%E2%80%90-Slider).
 
 ## License
 

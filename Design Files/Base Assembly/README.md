@@ -60,48 +60,50 @@ If you're substituting parts from your local hardware store or Amazon, be sure t
 
 | **Item**                        | **Part Number** | **Qty** | **Link** |
 |---------------------------------|-----------------|---------|----------|
-| Linear Rail               | JKK60-5-P-150-A1-F4-M | 1       | [Link](https://jlcmc.com/product/s/B16/BQD-JKK60/FA-%E7%9B%B4%E7%BA%BF%E8%BF%90%E5%8A%A8%E9%9B%B6%E4%BB%B6-%E9%92%A2%E5%88%B6%E7%9B%B4%E7%BA%BF%E6%A8%A1%E7%BB%84?productModelNumber=JKK60-5-P-150-A1-F4-M) |
+| Linear Rail               | JKK60-5-P-150-A1-F4-M / JKK60-10-P-150-A1-F4-M | 1       | [Link](https://jlcmc.com/product/s/B16/BQD-JKK60/FA-%E7%9B%B4%E7%BA%BF%E8%BF%90%E5%8A%A8%E9%9B%B6%E4%BB%B6-%E9%92%A2%E5%88%B6%E7%9B%B4%E7%BA%BF%E6%A8%A1%E7%BB%84?productModelNumber=JKK60-5-P-150-A1-F4-M) |
 | 130w NEMA 23 Servo Motor        | iSV57T-130S     | 1       | [Link](https://www.omc-stepperonline.com/nema-23-integrated-easy-servo-motor-130w-3000rpm-0-45nm-63-73oz-in-20-50vdc-servo-motor-short-shaft-isv57t-130s) |
 | Gilphilbert Control Board       | V1.2            | 1       | [Link](https://github.com/gilphilbert/DIY-Sim-Racing-FFB-Pedal-PCBs/tree/main/control-board) |
 | Gilphilbert Power Board         | V1.1            | 1       | [Link](https://github.com/gilphilbert/DIY-Sim-Racing-FFB-Pedal-PCBs/tree/main/power-board) |
 | FPC FFC PCB Converter Board 6P  | N/A             | 1       | [Link](https://a.co/d/bPsciNe) |
 | FFC Ribbon Flat Flexible Cable, 6 Pin 0.5mm Pitch 300mm Long | N/A | 1 | [Link](https://a.co/d/6zGifmP) |
 | 6 Pin PCIe Extension Cable      | N/A             | 1       | [Link](https://a.co/d/cVutRBN) |
-| 16 Gauge Wire (Various Colors)  | N/A             |         | [Link](https://a.co/d/feJ6wWT) |
-| Kapton Tape                     | N/A             |         | [Link](https://a.co/d/9xGHyLZ) |
+| 16 Gauge Wire (Various Colors)  | N/A             | As needed | [Link](https://a.co/d/feJ6wWT) |
+| Kapton Tape                     | N/A             | As needed | [Link](https://a.co/d/9xGHyLZ) |
 | USB-C Extension                 | N/A             | 1       | [Link](https://a.co/d/dT4IqKd) |
 | XT30 Connector Adapter          | N/A             | 1       | [Link](https://a.co/d/eTCltLF) |
-| JST-XH Connectors               | N/A             |         | [Link](https://a.co/d/135aogA) |
-| JST-XH Pin Header Connectors    | N/A             |         | [Link](https://a.co/d/96Qgd40) |
+| JST-XH Connectors               | N/A             | As needed | [Link](https://a.co/d/135aogA) |
+| JST-XH Pin Header Connectors    | N/A             | 3 x 2-pin, 1 x 3-pin, 1 x 4-pin, 1 x 5-pin | [Link](https://a.co/d/96Qgd40) |
 | RG178 U.FL MHF1 to SMA Coax Cable | N/A           | 1       | [Link](https://a.co/d/cNCmAZx) |
-| 2.54mm 0.1" Pitch PCB Mount Screw Terminal Block | N/A | 1  | [Link](https://a.co/d/gwZj4TC) |
-| M3x0.5mm Heat Set Insert        | 94180A333       | 9       | [Link](https://www.mcmaster.com/94180A333/) |
+| 2-pin 0.1" Pitch PCB Screw Terminal Block | N/A | 1  | [Link](https://a.co/d/gwZj4TC) |
+| M3x0.5mm Heat Set Insert        | 94180A333       | 7       | [Link](https://www.mcmaster.com/94180A333/) |
 | M3x0.5 6mm Socket Head Screw    | 91292A111       | 8       | [Link](https://www.mcmaster.com/91292A111/) |
-| M3x0.5 8mm Socket Head Screw    | 91292A112       | 2       | [Link](https://www.mcmaster.com/91292A112/) |
-| M3x0.5 16mm Socket Head Screw   | 91292A115       | 4       | [Link](https://www.mcmaster.com/91292A115/) |
+| M3x0.5 8mm Flat Head Screw      | 92125A128       | 2       | [Link](https://www.mcmaster.com/92125A128/) |
+| M3x0.5 16mm Socket Head Screw   | 91292A115       | 2       | [Link](https://www.mcmaster.com/91292A115/) |
 | M3x0.5 20mm Socket Head Screw   | 91292A123       | 2       | [Link](https://www.mcmaster.com/91292A123/) |
 | M3x0.5 30mm Socket Head Screw   | 91292A022       | 1       | [Link](https://www.mcmaster.com/91292A022/) |
 | M4x0.7mm Heat Set Insert        | 94180A353       | 14      | [Link](https://www.mcmaster.com/94180A353/) |
-| M4x0.7 10mm Flat Head Screw   | 92125A190        | 12      | [Link](https://www.mcmaster.com/92125A190/) |
+| M4x0.7 10mm Flat Head Screw   | 92125A190        | 2      | [Link](https://www.mcmaster.com/92125A190/) |
 | M4x0.7 16mm Flat Head Screw   | 92125A196       | 12      | [Link](https://www.mcmaster.com/92125A196/) |
-| M4x0.7 18mm Flat Head Screw   | 91292A043       | 4       | [Link](https://www.mcmaster.com/91292A043/) |
-| M5x0.8mm Nut                    | 91828A241       | 6       | [Link](https://www.mcmaster.com/91828A241/) |
+| M4x0.7 18mm Socket Head Screw | 91292A043       | 4       | [Link](https://www.mcmaster.com/91292A043/) |
+| M5x0.8mm Standard Nut           | 91828A241       | 6       | [Link](https://www.mcmaster.com/91828A241/) |
 | M5x0.8mm Heat Set Insert        | 94180A363       | 5       | [Link](https://www.mcmaster.com/94180A363/) |
 | M5x0.8 10mm Flat Head Screw     | 92125A208       | 1       | [Link](https://www.mcmaster.com/92125A208/) |
 | M5x0.8 18mm Socket Head Screw   | 91292A127       | 2       | [Link](https://www.mcmaster.com/91292A127/) |
 | M5x0.8 35mm Socket Head Screw   | 91292A193       | 4       | [Link](https://www.mcmaster.com/91292A193/) |
 | M5x0.8 30mm Socket Head Screw   | 91292A192       | 4       | [Link](https://www.mcmaster.com/91292A192/) |
-| Adhesive Silicon Roll           | N/A             | 1      | [Link](https://a.co/d/0RqzMVF) |
+| M5 Undersized Washer            | 98689A114       | 8       | [Link](https://www.mcmaster.com/98689A114/) |
+| Adhesive Silicone Roll          | N/A             | Optional | [Link](https://a.co/d/0RqzMVF) |
 
 ### Notes
 
-1. **Linear Rail** – The part number calls for the 5 pitch screw, however the 10 pitch can also be used but not recommended for the brake pedal.  The 10 pitch is a better fit for the throttle / clutch pedal which requires faster movement with less force resistance.
+1. **Linear Rail** – Use `JKK60-5-P-150-A1-F4-M` for brake pedals. `JKK60-10-P-150-A1-F4-M` can be used for throttle and/or clutch pedals, where faster movement with less force resistance is preferred.
 2. **FPC FFC PCB Converter Board 6P** - The complete build includes **2** of these boards so plan your order accordingly.
-3. **PCIe Extension Cables** – The full pedal setup requires a total of **6** cables. You’ll need 3 for the PSU and 3 for the pedals, so plan your order accordingly.
+3. **PCIe Extension Cables** – Each pedal base uses **1** pedal-side PCIe extension cable. The PSU enclosure uses **2** cables with the LRS-350-36 or **3** cables with the LRS-600-36. A 3-pedal / 600w build uses **6** total cables; a 1-pedal / 350w build uses **3** total, and a 2-pedal / 350w build uses **4** total.
+4. **Base Plate Hardware** – Use 4 x M5x0.8 35mm Socket Head Screw for a machined base plate. Use 4 x M5x0.8 30mm Socket Head Screw and 4 x M5x0.8mm Standard Nut for a 3D printed base plate.
 
 ## Assembly
 
-A complete walkthrough of the assembly process can be found on the [Wiki](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/5-%E2%80%90-Base-Assembly)
+A complete walkthrough of the assembly process can be found on the [Wiki](https://github.com/chrisjameschamp/DIY-Active-Pedal-Design/wiki/05-%E2%80%90-Pedal-Base)
 
 ## License
 
