@@ -56,7 +56,7 @@ If you're aiming to build a sim racing setup that closely mirrors a real race ca
 ## Documentation
 
 Want to build this project?  
-Be sure to check out the [📖 Project Wiki](https://github.com/ChrisJamesChamp/DIY-Active-Pedal-Design/wiki/DIY-Active-Pedal-Build-Wiki) for:
+Be sure to check out the [📖 Project Wiki](https://github.com/ChrisJamesChamp/DIY-Active-Pedal-Design/wiki/00-%E2%80%90-DIY-Active-Pedal-Build-Wiki) for:
 
 - Print settings & material recommendations  
 - Hardware lists  
